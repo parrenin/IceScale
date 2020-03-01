@@ -27,4 +27,4 @@ corr_thinning_grid: #Depth grid for the thinning correction function
 #Parameters needed to define the covariance matrices as in AICC2012.
 lambda_thinning: 1
 lambda_deporate: 100
-lambda_lid: 100
+lambda_lid: 5000

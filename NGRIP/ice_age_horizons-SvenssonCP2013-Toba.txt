@@ -1,0 +1,2 @@
+#depth (m)	age (yr b1950)	uncertainty (yr)		label		Reference
+2547.60 73880   324 #Svensson et al, CP, 2013, age from Storey et al., PNAS, 2012.

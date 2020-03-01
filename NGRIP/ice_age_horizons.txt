@@ -1,11 +1,13 @@
 #depth (m)	age (yr b1950)	uncertainty (yr)		label		Reference
 1409.83	10088	158.5	#	Saksunarvatn tephra	.	Svensson et al. (CP. 2008)
 1506.14	12128	145.5	#	NAAZ I / Vedde tephra	.	Svensson et al. (CP. 2008)
+1628.25 15789   96  #   Towada-H eruption, Bourne et al., SR, 2016; Horiuchi et al. (Radiocarbon, 2007)
 1848.05	27343.5	226.25	#	FMAZ II / Fugloyarbanki tephra	.	Svensson et al. (CP. 2008)
 1982.70	32607	445	#	Mono Lake event	.	Svensson et al. (CP. 2008)
 2066.95	37443.5	1173.75	#	FMAZ III/33 ka 14 C tephra	.	Svensson et al. (CP. 2008)
 2118.66	40400	1000	#	Laschamp event	.	Svensson et al. (CP. 2008)
 2359.45	54500	1000	#	NAAZ II/Z2 tephra	.	Svensson et al. (CP. 2008)
+2547.60 73880   324 #   Toba eruption, Svensson et al, CP, 2013, age from Storey et al., PNAS, 2012.
 2547.92	74146	131	#	GS-20	HÖL19	Moseley et al., CP, 2020, Table 3
 2579.30	75795	240	#	GI-20c	SCH6	Moseley et al., CP, 2020, Table 3
 2579.30	75857	190	#	GI-20c	BA1b	Moseley et al., CP, 2020, Table 3
@@ -18,5 +20,3 @@
 2905.34	105814	255	#	GS-24.1	GAS22	Moseley et al., CP, 2020, Table 3
 2905.34	105845	249	#	GS-24.1	GAS29	Moseley et al., CP, 2020, Table 3
 2938.41	108801	210	#	GI-24.2	HUN14	Moseley et al., CP, 2020, Table 3
-2547.60 73880   324 #   Toba eruption, Svensson et al, CP, 2013, age from Storey et al., PNAS, 2012.
-1628.25 15789   96  #   Towada-H eruption, Bourne et al., SR, 2016; Horiuchi et al. (Radiocarbon, 2007)

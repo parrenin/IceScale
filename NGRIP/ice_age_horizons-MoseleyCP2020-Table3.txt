@@ -1,0 +1,13 @@
+#Ages of DO events extracted from NALPS19 (Moseley et al., CP, 2020, Table 3)						
+2547.92	74146	131	#	GS-20	HÖL19	Moseley et al., CP, 2020, Table 3
+2579.30	75795	240	#	GI-20c	SCH6	Moseley et al., CP, 2020, Table 3
+2579.30	75857	190	#	GI-20c	BA1b	Moseley et al., CP, 2020, Table 3
+2590.80	77251	179	#	GS-21.1	GAS12	Moseley et al., CP, 2020, Table 3
+2590.80	77207	178	#	GS-21.1	GAS13	Moseley et al., CP, 2020, Table 3
+2687.50	84671	100	#	GI-21.1e	BA7-GAS25	Moseley et al., CP, 2020, Table 3
+2891.63	103745	129	#	GI-23.1	HUN14	Moseley et al., CP, 2020, Table 3
+2891.63	103640	178	#	GI-23.1	GAS27	Moseley et al., CP, 2020, Table 3
+2905.34	105868	155	#	GS-24.1	HUN14	Moseley et al., CP, 2020, Table 3
+2905.34	105814	255	#	GS-24.1	GAS22	Moseley et al., CP, 2020, Table 3
+2905.34	105845	249	#	GS-24.1	GAS29	Moseley et al., CP, 2020, Table 3
+2938.41	108801	210	#	GI-24.2	HUN14	Moseley et al., CP, 2020, Table 3

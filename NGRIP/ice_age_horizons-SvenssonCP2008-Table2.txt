@@ -1,0 +1,8 @@
+#depth (m)	age (yr b1950)	uncertainty (yr)		label		Reference
+1409.83	10088	158.5	#	Saksunarvatn tephra	.	Svensson et al. (CP. 2008)
+1506.14	12128	145.5	#	NAAZ I / Vedde tephra	.	Svensson et al. (CP. 2008)
+1848.05	27343.5	226.25	#	FMAZ II / Fugloyarbanki tephra	.	Svensson et al. (CP. 2008)
+1982.70	32607	445	#	Mono Lake event	.	Svensson et al. (CP. 2008)
+2066.95	37443.5	1173.75	#	FMAZ III/33 ka 14 C tephra	.	Svensson et al. (CP. 2008)
+2118.66	40400	1000	#	Laschamp event	.	Svensson et al. (CP. 2008)
+2359.45	54500	1000	#	NAAZ II/Z2 tephra	.	Svensson et al. (CP. 2008)
