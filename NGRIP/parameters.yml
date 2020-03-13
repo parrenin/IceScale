@@ -13,9 +13,8 @@ deporate0: 0.20
 beta: 0.019
 deporate_prior_sigma: 0.5
 
-calc_lid: True
-lid_value: 90.
-lid_prior_sigma: 0.3
+calc_lid: False
+lid_prior_sigma: 0.2
 
 age_top_prior: -28. #age at the top of the sequence
 age_top_sigma: 1. #Error on top age
@@ -36,7 +35,7 @@ corr_deporate_grid: #Age grid for the deporate correction function
     ratio: 0.2 #Ratio of the first step size to the average step size
 corr_lid_grid: #Age grid for the LID correction function
     type: 'regular'
-    start: -1028.
+    start: -28.
     end:  124972.
-    nb_steps: 131 
+    nb_steps: 125
     ratio: 0.2 #Ratio of the first step size to the average step size
