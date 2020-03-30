@@ -1,4 +1,5 @@
 #depth (m)	age (yr b1950)	uncertainty (yr)		label		Reference
+7.35    -30     1.0     # Top depth of GICC05
 1409.83	10088	158.5	#	Saksunarvatn tephra	.	Svensson et al. (CP. 2008)
 1506.14	12128	145.5	#	NAAZ I / Vedde tephra	.	Svensson et al. (CP. 2008)
 1628.25 15789   96  #   Towada-H eruption, Bourne et al., SR, 2016; Horiuchi et al. (Radiocarbon, 2007)

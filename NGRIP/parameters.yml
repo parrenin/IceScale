@@ -1,7 +1,7 @@
 #Parameters specific to the NGRIP ice core
 calc_thinning: True
 thickness: 3085. #NorthGrip members, Nature, 2004.
-iedepth_top: 3.5 #Value calculated with an average density of 0.44 for the first 8 m.
+iedepth_top: 0. #Value calculated with an average density of 0.44 for the first 8 m.
 pprime: 1.
 sliding: 0.
 muprime: -2.4
@@ -16,11 +16,11 @@ deporate_prior_sigma: 0.5
 calc_lid: False
 lid_prior_sigma: 0.2
 
-age_top_prior: -28. #age at the top of the sequence
-age_top_sigma: 1. #Error on top age
+age_top_prior: -46. #age at the top of the sequence
+age_top_sigma: 10. #Error on top age
 depth_grid: #depth grid for the age calculation
     type: 'regular'
-    start: &depth_start 8.
+    start: &depth_start 0.
     end: &depth_end 3085.
     resolution: 1.
 age_truncation:
